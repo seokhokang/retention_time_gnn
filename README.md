@@ -28,3 +28,17 @@ Pytorch implementation of the model described in the paper [Retention Time Predi
 - **Pytorch**
 - **DGL**
 - **RDKit**
+
+## Citation
+```
+@Article{Kwon2023,
+  title={Retention Time Prediction through Learning from a Small Training Data Set with a Pretrained Graph Neural Network},
+  author={Kwon, Youngchun and Kwon, Hyukju and Han, Jongmin and Kang, Myeonginn and Kim, Ji-Yeong and Shin, Dongyeeb and Choi, Youn-Suk and Kang, Seokho},
+  journal={Analytical Chemistry},
+  volume={95},
+  number={47},
+  pages={17273–17283},
+  year={2023},
+  doi={10.1021/acs.analchem.3c03177}
+}
+```
